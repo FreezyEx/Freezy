@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freezyex&label=Profile%20views&color=0e75b6&style=flat" alt="freezyex" /> </p>
 
 
-- 🔭 I’m currently working on [Xilence's Launchpad](https://xilence.us/)
+- 🔭 I’m currently working on **something really cool**
 
 - 🌱 I’m currently learning **Node.js, Solidity and React**
 
