@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Freezy</h1>
 
-![Freezy's GitHub stats](github-readme-stats-opal-one-47.vercel.app/api?username=freezyex&hide=prs&show_icons=true&theme=omni)
+![Freezy's GitHub stats](https://github-readme-stats-v1a7.vercel.app/api?username=freezyex&hide=prs&show_icons=true&theme=omni)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freezyex&label=Profile%20views&color=0e75b6&style=flat" alt="freezyex" /> </p>
 
 
@@ -30,6 +30,6 @@
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="hardhat.svg" alt="hardhat" width="40" height="40"/> </a> 
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=freezyex&show_icons=true&locale=en&layout=compact&hide=typescript,shell" alt="freezyex" /></p>
+<p align="center"><img src="https://github-readme-stats-v1a7.vercel.app/api/top-langs?username=freezyex&show_icons=true&locale=en&layout=compact&hide=typescript,shell" alt="freezyex" /></p>
 
 
